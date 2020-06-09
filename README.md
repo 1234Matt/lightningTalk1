@@ -22,6 +22,9 @@ Elon Musk site:.gov
 <i>Elon Musk and Tesla: </i>
 Elon Musk +Tesla -no space between +andSearch
 
+<i>Tesla without Elon: </i>
+Tesla -"Elon Musk"
+
 <br>
 <h2>It was only for search input fields</h2>
 <h2>Images</h2>
