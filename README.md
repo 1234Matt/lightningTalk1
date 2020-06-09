@@ -3,22 +3,23 @@
 
 <h1>What Happens When You (GOOGLE) Search Elon Musk</h1>
 
-Elon Musk:
+<i> </i>
+<i>Elon Musk: </i>
 Elon Musk
 
-Elon with no Musk:
+<i>Elon with no Musk: </i>
 Elon -Musk   -no space between -andSearch
 
-Musk with no Elon:
+<i>Musk with no Elon: </i>
 -Elon Musk
 
-No Elon No Musk - No results
+<i>No Elon No Musk - No results </i>
 -"Elon Musk"
 
-What if you want to google what governant sites say about Elon?
+<i>What if you want to google what governant sites say about Elon? </i>
 Elon Musk site:.gov
 
-Elon Musk and Tesla:
+<i>Elon Musk and Tesla: </i>
 Elon Musk +Tesla -no space between +andSearch
 
 
