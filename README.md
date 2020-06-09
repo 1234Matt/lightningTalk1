@@ -40,7 +40,7 @@ Advanced search - https://www.google.com/advanced_search
 
 
 
-RESOURCES:
+<h3>RESOURCES: </h3>
 Advanced search - https://www.google.com/advanced_search 
 Advanced Image search - https://www.google.com/advanced_image_search
 
