@@ -22,14 +22,13 @@ Elon Musk site:.gov
 <i>Elon Musk and Tesla: </i>
 Elon Musk +Tesla -no space between +andSearch
 
-
+<br>
 It was only for search input fields
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 Advanced search - https://www.google.com/advanced_search 
     - check for advanced options
