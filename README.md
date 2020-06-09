@@ -26,6 +26,15 @@ Elon Musk +Tesla -no space between +andSearch
 Tesla -"Elon Musk"
 
 <br>
+Elon Musk site:.gov
+
+</br>
+Elon Musk + Flamethrower
+</br>
+
+"Elon Musk is *"
+
+<br>
 <h2>It was only for search input fields</h2>
 
 <h2>Images</h2>
