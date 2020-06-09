@@ -25,14 +25,18 @@ Elon Musk +Tesla -no space between +andSearch
 <br>
 <h2>It was only for search input fields</h2>
 <h2>another options</h2>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 Advanced search - https://www.google.com/advanced_search 
     - check for advanced options
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
     
 
 
@@ -43,9 +47,9 @@ Advanced search - https://www.google.com/advanced_search
 <h3>RESOURCES: </h3>
 Advanced search - https://www.google.com/advanced_search 
 Advanced Image search - https://www.google.com/advanced_image_search
-
+<br>
+New Google Search Commands – Before: and After: https://www.searchenginejournal.com/before-after-search-commands/302695/
+<br>
 12 Cool Google Search Tricks You Should Be Using! - https://www.youtube.com/watch?v=7ond5eF7L-I
-
-
-
 How To Google Like A Pro!... - https://www.google.com/search?q=advance+search+google&oq=advance+search+google&aqs=chrome..69i57j0l7.7944j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_mXbfXpHbDrCFhbIPhJG3mA086
+
