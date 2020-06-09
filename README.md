@@ -13,10 +13,10 @@ Elon -Musk   -no space between -andSearch
 <i>Musk with no Elon: </i>
 -Elon Musk
 
-<i>No Elon No Musk - No results </i>
+<i>No Elon No Musk - No results: </i>
 -"Elon Musk"
 
-<i>What if you want to google what governant sites say about Elon? </i>
+<i>What if you want to google what governant sites say about Elon?: </i>
 Elon Musk site:.gov
 
 <i>Elon Musk and Tesla: </i>
@@ -30,7 +30,7 @@ It was only for search input fields
 
 
 
-
+<br>
 Advanced search - https://www.google.com/advanced_search 
     - check for advanced options
     
