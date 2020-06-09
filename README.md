@@ -24,11 +24,15 @@ Elon Musk +Tesla -no space between +andSearch
 
 <br>
 <h2>It was only for search input fields</h2>
-<h2>another options</h2>
+<h2>Images</h2>
+Elon Musk imagesize:400x500 
+Tools>Usage Rights>noncomercial usage
 
-
+<h2>Another options</h2>
 Advanced search - https://www.google.com/advanced_search 
     - check for advanced options
+
+Setting>Search Activity> Elon Musk
 
 <br>
 <br>
