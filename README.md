@@ -32,7 +32,9 @@ Tools>Usage Rights>noncomercial usage
 Advanced search - https://www.google.com/advanced_search 
     - check for advanced options
 
-Setting>Search Activity> Elon Musk
+<i>History of Search: </i> Setting>Search Activity> Elon Musk
+
+<i>Advanced Image Search: </i> https://www.google.com/advanced_image_search
 
 <br>
 <br>
